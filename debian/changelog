@@ -1,0 +1,12 @@
+libdisplaycore-driver-ssd1306-dspi (2.0.1) uecide; urgency=low
+
+  * Added build files
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 2 Apr 2018 14:01:47 +0100
+
+libdisplaycore-driver-ssd1306-dspi (2.0.0) uecide; urgency=low
+
+  * Initial import
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 2 Apr 2018 13:42:15 +0100
+

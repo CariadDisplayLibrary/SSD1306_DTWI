@@ -1,0 +1,18 @@
+Source: libdisplaycore-driver-ssd1306-dtwi
+Section: libraries
+Priority: extra
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: libdisplaycore-driver-ssd1306-dtwi
+Section: libraries
+Architecture: all
+XBSC-Group: DisplayCore
+XBSC-Subgroup: Drivers
+Depends: libdisplaycore-core, libdisplaycore-driver-ssd1306, libdtwi-chipkit
+Provides: SSD1306-UL-DTWI.h
+Description: SSD1306 DTWI Interface
+ This is a generic 128x64 SSD1306 DTWI driver.
+ .
+ This library requires the SSD1306 "base" library to work.
