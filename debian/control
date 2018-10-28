@@ -10,6 +10,7 @@ Section: main
 Architecture: all
 XBSC-Group: DisplayCore
 XBSC-Subgroup: Drivers
+XBSC-Subsubgroup: OLED
 Depends: libdisplaycore-core, libdisplaycore-driver-ssd1306, libdtwi-chipkit
 Provides: SSD1306-UL-DTWI.h
 Description: SSD1306 DTWI Interface
