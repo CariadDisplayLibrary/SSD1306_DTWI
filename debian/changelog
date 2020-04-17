@@ -1,12 +1,24 @@
-libdisplaycore-driver-ssd1306-dspi (2.0.1) uecide; urgency=low
+libdisplaycore-driver-ssd1306-dtwi (2.0.3) uecide; urgency=low
 
-  * Added build files
+  * Added to subgroup
 
- -- Matt Jenkins <matt@majenko.co.uk>  Mon, 2 Apr 2018 14:01:47 +0100
+ -- Matt Jenkins <matt@majenko.co.uk>  Sun, 28 Oct 2018 17:07:06 +0000
 
-libdisplaycore-driver-ssd1306-dspi (2.0.0) uecide; urgency=low
+libdisplaycore-driver-ssd1306-dtwi (2.0.2) uecide; urgency=low
+
+  * New structure
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sun, 3 Jun 2018 16:41:48 +0100
+
+libdisplaycore-driver-ssd1306-dtwi (2.0.1) uecide; urgency=low
+
+  * Added readme
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 2 Apr 2018 14:11:03 +0100
+
+libdisplaycore-driver-ssd1306-dtwi (2.0.0) uecide; urgency=low
 
   * Initial import
 
- -- Matt Jenkins <matt@majenko.co.uk>  Mon, 2 Apr 2018 13:42:15 +0100
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 2 Apr 2018 14:10:29 +0100
 
