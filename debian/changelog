@@ -1,22 +1,22 @@
-libdisplaycore-driver-ssd1306-dtwi (2.0.3) uecide; urgency=low
+libcariad-driver-ssd1306-dtwi (2.0.3) uecide; urgency=low
 
   * Added to subgroup
 
  -- Matt Jenkins <matt@majenko.co.uk>  Sun, 28 Oct 2018 17:07:06 +0000
 
-libdisplaycore-driver-ssd1306-dtwi (2.0.2) uecide; urgency=low
+libcariad-driver-ssd1306-dtwi (2.0.2) uecide; urgency=low
 
   * New structure
 
  -- Matt Jenkins <matt@majenko.co.uk>  Sun, 3 Jun 2018 16:41:48 +0100
 
-libdisplaycore-driver-ssd1306-dtwi (2.0.1) uecide; urgency=low
+libcariad-driver-ssd1306-dtwi (2.0.1) uecide; urgency=low
 
   * Added readme
 
  -- Matt Jenkins <matt@majenko.co.uk>  Mon, 2 Apr 2018 14:11:03 +0100
 
-libdisplaycore-driver-ssd1306-dtwi (2.0.0) uecide; urgency=low
+libcariad-driver-ssd1306-dtwi (2.0.0) uecide; urgency=low
 
   * Initial import
 

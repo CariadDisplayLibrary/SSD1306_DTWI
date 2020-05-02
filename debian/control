@@ -1,17 +1,18 @@
-Source: libdisplaycore-driver-ssd1306-dtwi
+Source: libcariad-driver-ssd1306-dtwi
 Section: main
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-driver-ssd1306-dtwi
+Package: libcariad-driver-ssd1306-dtwi
+Replaces: libdisplaycore-driver-ssd1306-dtwi
 Section: main
 Architecture: all
-XBSC-Group: DisplayCore
+XBSC-Group: Cariad
 XBSC-Subgroup: Drivers
 XBSC-Subsubgroup: OLED
-Depends: libdisplaycore-core, libdisplaycore-driver-ssd1306, libdtwi-chipkit
+Depends: libcariad-core, libcariad-driver-ssd1306, libdtwi-chipkit
 Provides: SSD1306-UL-DTWI.h
 Description: SSD1306 DTWI Interface
  This is a generic 128x64 SSD1306 DTWI driver.
